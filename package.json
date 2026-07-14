@@ -1,0 +1,9 @@
+{
+  "name": "suivitls-ping-bot",
+  "version": "1.0.0",
+  "private": true,
+  "main": "ping-check.js",
+  "dependencies": {
+    "firebase-admin": "^12.1.0"
+  }
+}
